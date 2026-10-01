@@ -1,0 +1,30 @@
+CFL BUFFET NGOẠI NGỮ - GITHUB PAGES
+
+CÁC FILE CẦN UPLOAD
+- index.html
+- style.css
+- owlie-buffet.png
+- HUONG-DAN.txt
+
+QUAN TRỌNG
+- Upload toàn bộ file ngang hàng ở thư mục gốc (root) của repository.
+- Không tạo thư mục con và không đổi tên file.
+
+CÁCH TẠO TRANG GITHUB PAGES MỚI
+1. Tạo một repository mới trên GitHub.
+2. Chọn Add file > Upload files.
+3. Kéo thả cả 4 file vào cùng một cấp.
+4. Commit changes.
+5. Vào Settings > Pages.
+6. Ở Build and deployment, chọn Source: Deploy from a branch.
+7. Chọn Branch: main và Folder: /(root), sau đó Save.
+8. Chờ GitHub Pages xuất bản trang.
+
+ĐỐI TƯỢNG
+- Chương trình Buffet Ngoại ngữ CFL chỉ dành riêng cho sinh viên, học viên cao học và nghiên cứu sinh.
+
+NỘI DUNG TRANG
+- Chỉ giữ chương trình Buffet Ngoại ngữ.
+- Không có các tab chương trình khác.
+- Không có nhãn “TƯ VẤN TÂN SINH VIÊN 2026”.
+- Nút “TRA CỨU NGAY” mở danh mục lớp Buffet Ngoại ngữ tại cflevents.com/buffet.html.
